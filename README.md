@@ -26,23 +26,19 @@
 </p>
 
 ---
+## 🚀 GitHub Highlights  
 
-### 🏆 GitHub Highlights
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-RajO-O&theme=onedark&no-bg=true&margin-w=15" />
-</p>
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek-RajO-O&show_icons=true&theme=transparent&hide_border=true&title_color=06D6A0&icon_color=06D6A0&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-RajO-O&layout=compact&theme=transparent&hide_border=true&title_color=9B5DE5&text_color=FFFFFF" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-RajO-O&show_icons=true&theme=onedark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-RajO-O&layout=compact&theme=onedark&hide_border=true" width="45%" />
-</p>
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-RajO-O&theme=transparent&hide_border=true&ring=9B5DE5&fire=06D6A0&currStreakLabel=06D6A0&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" width="90%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-RajO-O&theme=onedark&hide_border=true" />
-</p>
+</div>
 
----
 
 ### 🎯 Current Vibes
 
